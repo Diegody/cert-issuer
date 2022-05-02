@@ -67,5 +67,5 @@ setup(
             'cert-issuer = cert_issuer.__main__:cert_issuer_main',
         ]
     },
-    packages=find_packages()
+    packages=find_packages() 
 )
